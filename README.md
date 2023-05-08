@@ -1,4 +1,7 @@
 # materi php 
+
+https://tinyurl.com/5materiphp
+
 Hasil: 
 1. latihan1.php   
 
